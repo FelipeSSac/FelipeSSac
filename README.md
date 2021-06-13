@@ -1,5 +1,4 @@
-### Hi there 👋
-**FelipeSSac/FelipeSSac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋
 
 - 🔭 I’m currently working with React.js
 - 💬 Ask me about JavaScript
