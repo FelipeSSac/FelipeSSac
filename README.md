@@ -5,8 +5,7 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> </p>
-<p align="center"> <img src="https://github.com/FelipeSSac/github-readme-stats" alt="abhisheknaiidu" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham" /> </p>
 <br />
 <p align="center"> Total visitors(06/27/2021): </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSac&show_icons=true&theme=gotham" /></p>
