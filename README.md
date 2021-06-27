@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <br />
+<p align="center"> texto que você quiser </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeSSac/count.svg" /></p>
   <a align="center" href="https://twitter.com/F_li__">
     <img align="center" alt="Felipes's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
