@@ -8,8 +8,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham" /> </p>
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSac&show_icons=true&theme=gotham" /></p>
-<p align="center"> Total visitors(06/27/2021): </p>
-<p align="center">   <img src="https://profile-counter.glitch.me/FelipeSSac/count.svg" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSac&show_icons=true&theme=gotham" /></p>
 <p align="center">
   <a align="center" href="https://twitter.com/F_li__">
