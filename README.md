@@ -3,10 +3,10 @@
 - 🔭 I’m currently working with React.js
 - 💬 Ask me about JavaScript
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<br />
 <p align="center"> Total visitors(06/21/2021): </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeSSac/count.svg" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<br />
   <a align="center" href="https://twitter.com/F_li__">
     <img align="center" alt="Felipes's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
