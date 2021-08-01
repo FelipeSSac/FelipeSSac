@@ -6,8 +6,8 @@
 ##
 
 <div align="center">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSac&show_icons=true&theme=gotham" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSac&show_icons=true&theme=gotham" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
