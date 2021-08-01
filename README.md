@@ -30,7 +30,7 @@
     <img alt="Felipe's Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
   <a href="mailto:felipe_adoubs@outlook.com">
-    <img alt="Felipe's Email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img alt="Felipe's Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/felipessac/" target="_blank">
     <img alt="Felipe's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
