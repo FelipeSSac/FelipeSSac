@@ -1,7 +1,8 @@
-### Hello there 👋
+### Hello there, my name is Felipe S. Souza👋
 
-- 🔭 I’m currently working with React.js
-- 💬 Ask me about JavaScript
+- 🔭 I’m currently working with React.js.
+- 💬 Ask me about JavaScript and TypeScript.
+- 🚀 Currently working to reach the next level and beyond.
 
 ##
 
