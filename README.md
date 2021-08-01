@@ -25,7 +25,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://open.spotify.com/user/12166123243">
     <img alt="Felipe's Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
