@@ -22,6 +22,9 @@
 
 <p align="center"> Total visitors(06/27/2021): </p>
 <p align="center">   <img src="https://profile-counter.glitch.me/FelipeSSac/count.svg" /></p>
+
+##
+
 <p align="center">
   <a align="center" href="https://twitter.com/F_li__">
     <img align="center" alt="Felipes's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -33,3 +36,9 @@
     <img align="center" alt="Felipes's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 </p>
+
+<div>
+ ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+  <a href = "mailto:felipe_adoubs@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipessac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
