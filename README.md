@@ -1,14 +1,20 @@
 ### Hello there, my name is Felipe S. Souza👋
 
+<div align="left">
 - 🔭 I’m currently working with React.js.
 - 💬 Ask me about JavaScript and TypeScript.
 - 🚀 Currently working to reach the next level and beyond.
+</div>
+
+<div align="right">
+  <a href="https://app.daily.dev/FelipeSSac">
+    <img src="https://api.daily.dev/devcards/d97484d865b64b679e5ea649b6e4099d.png?r=iwr" width="400" alt="Felipe Souza's Dev Card"/>
+  </a>
+</div>
 
 ##
 
-<a href="https://app.daily.dev/FelipeSSac"><img src="https://api.daily.dev/devcards/d97484d865b64b679e5ea649b6e4099d.png?r=iwr" width="400" alt="Felipe Souza's Dev Card"/></a>
 
-##
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
