@@ -1,9 +1,9 @@
 ### Hello there, my name is Felipe S. Souza👋
 
 <div align="center">
-- 🔭 I’m currently working with React.js.
-- 💬 Ask me about JavaScript and TypeScript.
-- 🚀 Currently working to reach the next level and beyond.
+- 🔭 I’m currently working with React.js. <br/>
+- 💬 Ask me about JavaScript and TypeScript. <br/>
+- 🚀 Currently working to reach the next level and beyond. <br/>
 </div>
 
 <div style="display: inline_block" align="center">
