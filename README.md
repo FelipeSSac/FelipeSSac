@@ -8,13 +8,11 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://app.daily.dev/FelipeSSac">
-    <img src="https://api.daily.dev/devcards/d97484d865b64b679e5ea649b6e4099d.png?r=iwr" width="40" alt="Felipe Souza's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/d97484d865b64b679e5ea649b6e4099d.png?r=iwr" width="300" alt="Felipe Souza's Dev Card"/>
   </a>
 </p>
 
 ##
-
-
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeSSac&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
