@@ -23,10 +23,8 @@
 ##
 
 <div style="display: inline_block" align="center">
-  <a href="https://app.daily.dev/FelipeSSac">
-    <img src="https://api.daily.dev/devcards/d97484d865b64b679e5ea649b6e4099d.png?r=iwr" width="300" alt="Felipe Souza's Dev Card"/>
-  </a>
-</p>
+  <a href="https://app.daily.dev/FelipeSSac"><img src="https://api.daily.dev/devcards/d97484d865b64b679e5ea649b6e4099d.png?r=rp7" width="400" alt="Felipe Souza's Dev Card"/></a>
+</div>
 
 ##
 
